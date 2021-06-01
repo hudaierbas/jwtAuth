@@ -1,1 +1,1 @@
-Login-register with jwt authentication / NodeJS, Express
+jwt authentication / NodeJS, Express
