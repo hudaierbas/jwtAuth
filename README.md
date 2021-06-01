@@ -1,1 +1,1 @@
-jwt authentication / NodeJS, Express
+jwt authentication NodeJS
